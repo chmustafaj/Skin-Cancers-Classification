@@ -29,11 +29,6 @@ This project combined concepts from:
 - **Output**:
   - Masked segmentations saved in the `Outputs/` folder
 
-📸 **Example Segmentation Output**
-
-![Segmentation Output](images/segmentation_sample.png)
-
----
 
 ### 🔹 2. Feature Extraction
 
