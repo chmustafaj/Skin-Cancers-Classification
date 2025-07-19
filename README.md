@@ -44,12 +44,6 @@ This project combined concepts from:
   - Area: Count class-colored pixels
   - Perimeter: Convert masks → binary images → find contours → sum perimeters
 
- **Feature Extraction Example**
-
-![Feature Extraction](images/feature_extraction_diagram.png)
-
----
-
 ### 🔹 3. Image Classification
 
 - **Approach**:
@@ -58,7 +52,7 @@ This project combined concepts from:
 
 📈 **Classification Flow**
 
-![Classification Flow](images/classification_flow.png)
+![Classification Flow](images/flow_diagram.jpg)
 
 ---
 
@@ -70,25 +64,5 @@ This project combined concepts from:
 
 📸 **Confusion Matrix Example**
 
-![Confusion Matrix](images/confusion_matrix.png)
-
----
-
-## 🧾 Flow Diagram
-
-> Refer to the full project PDF for the detailed flowchart or use this placeholder:
-
-![Flow Diagram](images/flow_diagram.png)
-
----
-
-## 📁 Output Samples
-
-Sample output files (segmented masks and logs) can be found in the `/Outputs` directory.
-
----
-
-## 💬 Contact
-
-For questions or collaboration, feel free to reach out to any of the contributors.
+![Confusion Matrix](images/confusion_matrix.jpg)
 
